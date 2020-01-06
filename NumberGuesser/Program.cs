@@ -41,6 +41,7 @@ namespace NumberGuesser
 
             // Ask user for number
 
+            // Looping until user guesses the number
             while(guess != correctNumber)
             {
                 // Get users input

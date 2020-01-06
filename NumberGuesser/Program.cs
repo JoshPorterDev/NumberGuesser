@@ -65,7 +65,7 @@ namespace NumberGuesser
             }
 
             // Output success message
-            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("You win! Great job!");
 
             // Setting bottom to white
